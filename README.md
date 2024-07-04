@@ -29,14 +29,18 @@ Table of Contents
 Clone the repository:
 
 bash
-Copy code ```
+Copy code 
+```
 git clone https://github.com/yungsimeon/pokemon-memory-game.git
+```
 
 Navigate into the project directory:
 
 bash
-Copy code ```
+Copy code
+```
 cd pokemon-memory-game
+```
 
 Open index.html in your preferred web browser.
 
