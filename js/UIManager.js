@@ -21,6 +21,7 @@ export class UIManager {
     setTimeout(() => {
       this.startScreen.style.display = "none";
       this.gameScreen.style.display = "block";
+      this.endScreen.style.display = "none";
     }, 500);
   }
 
