@@ -1,4 +1,4 @@
-##Pokémon Memory Game
+# Pokémon Memory Game
 
 This project is a browser-based memory card game inspired by Pokémon, implemented using HTML, CSS, and JavaScript. It allows players to flip cards and match pairs while keeping track of their score and highscore.
 
@@ -31,13 +31,13 @@ Clone the repository:
 bash
 Copy code ```
 git clone https://github.com/yungsimeon/pokemon-memory-game.git
-```
+
 Navigate into the project directory:
 
 bash
 Copy code ```
 cd pokemon-memory-game
-```
+
 Open index.html in your preferred web browser.
 
 ### How to Play
@@ -46,15 +46,20 @@ Click on another card to try and find its matching pair.
 If the Pokémon on both flipped cards match, they remain visible.
 If the Pokémon don't match, both cards flip back over after a brief delay.
 The game ends when all pairs have been matched.
-Game Rules
+
+### Game Rules
 Only two cards can be flipped at a time.
 You can only flip one card at a time.
 Try to match all pairs with the fewest mistakes to achieve a highscore.
-Built With
-HTML5
-CSS3
-JavaScript
-Author
+
+### Built With
+- HTML5
+- CSS3
+- JavaScript
+  
+### Author
 Simon Schubert - Developer
-License
+
+### License
+
 This project is licensed under the MIT License
